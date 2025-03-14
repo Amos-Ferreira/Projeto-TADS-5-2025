@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.jailton.androidapptemplate"
+    namespace = "com.amos.arkadia"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.jailton.androidapptemplate"
+        applicationId = "com.amos.arkadia"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

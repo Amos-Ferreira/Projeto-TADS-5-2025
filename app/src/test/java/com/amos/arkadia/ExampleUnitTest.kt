@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.amos.arkadia
 
 import org.junit.Test
 
